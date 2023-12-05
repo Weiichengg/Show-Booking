@@ -3,7 +3,6 @@
 *.class
 Command
 Java:
-*.xml
 *.lst
 target/surefire-reports/AdminTest.txt
 target/surefire-reports/BookingServiceTest.txt
